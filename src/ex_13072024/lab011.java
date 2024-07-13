@@ -8,7 +8,7 @@ public class lab011 {
         System.out.println();
 
         int a = 9*1;
-        System.out.println("9*1=" +a);
+        System.out.println("9*1=\n" +a);
 
         int b=9*2;
         System.out.println(b);
